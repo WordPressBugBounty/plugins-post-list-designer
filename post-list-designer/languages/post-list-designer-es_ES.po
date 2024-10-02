@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post List Designer by Category\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-29 17:45+0000\n"
+"PO-Revision-Date: 2021-03-28 10:47+0000\n"
+"Last-Translator: Anoop Ranawat\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: templates/archive-list/design-1.php:17 templates/list/design-1.php:25
+#: templates/list/design-2.php:26 templates/ul-list/design-1.php:17
+msgid "By"
+msgstr "Por"
+
+#: includes/admin/class-bld-admin.php:313
+msgid "Checkout the premium demo with 3 Layouts, 10+ Designs and Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display WordPress Post on your website in List, simple/minimal list and "
+"archive list view. Display category post list as well."
+msgstr ""
+
+#: includes/admin/class-bld-admin.php:105
+msgid "How it Work - Post List Designer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://premium.infornweb.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "InfornWeb"
+msgstr ""
+
+#: includes/admin/class-bld-admin.php:324
+msgid "Loking For More Layouts and Designs?"
+msgstr ""
+
+#: includes/bld-functions.php:80
+msgid "Next"
+msgstr "Próxima"
+
+#: includes/admin/class-bld-admin.php:45
+msgid "Post List Designer"
+msgstr ""
+
+#. Name of the plugin
+msgid "Post List Designer by Category"
+msgstr ""
+
+#: includes/admin/class-bld-admin.php:314
+msgid "Premium Demo"
+msgstr ""
+
+#: includes/admin/class-bld-admin.php:307
+msgid "Premium Demo - Post List Designer"
+msgstr ""
+
+#: includes/bld-functions.php:79
+msgid "Previous"
+msgstr "Previa"
+
+#: templates/archive-list/design-1.php:28 templates/list/design-1.php:37
+#: templates/list/design-2.php:39 templates/ul-list/design-1.php:28
+msgid "Read More"
+msgstr "Leer más"
+
+#: includes/shortcode/bld-archive-list.php:115
+#: includes/shortcode/bld-post-list.php:109
+#: includes/shortcode/bld-simple-list.php:114
+msgid "Replies"
+msgstr "Respuestas"
+
+#: includes/shortcode/bld-archive-list.php:115
+#: includes/shortcode/bld-post-list.php:109
+#: includes/shortcode/bld-simple-list.php:114
+msgid "Reply"
+msgstr "Respuesta"
+
+#: includes/shortcode/bld-post-list.php:107
+msgid "Tags: "
+msgstr ""
+
+#: includes/admin/class-bld-admin.php:312
+msgid "Want to Check Premium Demo and Features?"
+msgstr ""
