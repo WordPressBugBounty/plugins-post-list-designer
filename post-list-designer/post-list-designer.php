@@ -3,7 +3,7 @@
  * Plugin Name: Post List Designer by Category
  * Plugin URL: https://premium.infornweb.com/post-list-designer-pro/
  * Description: Display WordPress Post on your website in List, simple/minimal list and archive list view. Display category wise post list as well.
- * Version: 3.3.6
+ * Version: 3.3.7
  * Author: InfornWeb
  * Author URI: https://premium.infornweb.com/
  * Text Domain: post-list-designer
@@ -27,7 +27,7 @@ if ( function_exists( 'pld_fs' ) ) {
  * @since 1.0.0
  */
 if( !defined( 'PLD_VERSION' ) ) {
-    define( 'PLD_VERSION', '3.3.6' ); // Version of plugin
+    define( 'PLD_VERSION', '3.3.7' ); // Version of plugin
 }
 if( !defined( 'PLD_DIR' ) ) {
     define( 'PLD_DIR', dirname( __FILE__ ) ); // Plugin dir
@@ -109,8 +109,21 @@ function pld_load_textdomain() {
 	}
 }
 
-// Action to load plugin text domain
-add_action('plugins_loaded', 'pld_load_textdomain');
+/**
+ * Prior Init Processes
+ * 
+ * @since 3.3.7
+ */
+function pld_init_processes() {
+
+	// Load Plugin Textdomain
+	pld_load_textdomain();
+
+	if( ! defined('PLD_SCREEN_ID') ) {
+		define( 'PLD_SCREEN_ID', sanitize_title(__('Post List Designer', 'post-list-designer')) );
+	}
+}
+add_action( 'init', 'pld_init_processes' );
 
 // Including freemius file
 include_once( PLD_DIR . '/freemius.php' );
