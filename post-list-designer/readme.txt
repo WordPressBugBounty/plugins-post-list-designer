@@ -1,31 +1,31 @@
-﻿=== Posts List Designer by Category - List Category Posts Or Recent Posts ===
+﻿=== Post List Designer by Category - List Category Post Or Recent Post ===
 Contributors: infornweb, pluginandplay
-Tags: posts list, list posts, category posts, recent posts, posts archive
+Tags: post list, list post, category post, recent post, post archive
 Requires at least: 4.7
 Tested up to: 6.7.1
 Requires PHP: 5.4
-Stable tag: 3.3.7
+Stable tag: 3.3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display WordPress Posts on your website in a List and Archive list view. Display posts list by category or recent posts as well.
+Display WordPress Post on your website in a List and Archive list view. Display category post, archive post, recent post and post list with category.
 
 == Description ==
 
-= ✅ Posts List Designer by Category is best for: =
+= ✅ Post List Designer by Category is best for: =
 
 * Display post list with beautiful designs (2 designs). 
 * Display post list with simple/minimal design.
 * Display post list with archive design.
 * Display post list by category.
 
-Posts List Designer by Category is used to display WordPress posts with list designs. You can display the latest post on your homepage/frontpage as well as in inner pages.
+Post List Designer by Category is used to display WordPress post with list designs. You can display the latest post on your homepage/frontpage as well as in inner pages.
 
 View [FREE DEMO](https://demo.infornweb.com/post-list-designer-demo/) for more details.
 
-Post List Designer allows you to list posts by category in a post or page using the shortcode.
+Post List Designer allows you to list post by category in a post or page using the shortcode.
 
-The shortcode accepts a category id, the order in which you want the posts to display, and the number of posts to display. You can also display the post author, date, excerpt, even the content!
+The shortcode accepts a category id, the order in which you want the post to display, and the number of posts to display. You can also display the post author, date, excerpt, even the content!
 
 Checkout [Premium Version Demo](https://premium.infornweb.com/post-list-designer-pro/) | [Buy Premium Version](https://premium.infornweb.com/post-list-designer-pro/)  for more designs and options.
 
@@ -206,6 +206,9 @@ If you need any help, you can ask it at Post List Designer plugin [Support Forum
 5. Post List By Category
 
 == Changelog ==
+
+= 3.3.8 (27 Jan, 2025) =
+* [*] Update Freemius SDK to latest version 2.11.0
 
 = 3.3.7 (30 Nov, 2024) =
 * [*] Fixed translation loading notice in WordPress 6.7
