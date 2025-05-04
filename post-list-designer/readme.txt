@@ -2,9 +2,9 @@
 Contributors: infornweb, pluginandplay
 Tags: post list, list post, category post, recent post, post archive
 Requires at least: 4.7
-Tested up to: 6.7.1
+Tested up to: 6.8.1
 Requires PHP: 5.4
-Stable tag: 3.3.8
+Stable tag: 3.3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -206,6 +206,9 @@ If you need any help, you can ask it at Post List Designer plugin [Support Forum
 5. Post List By Category
 
 == Changelog ==
+
+= 3.3.9 (04 May, 2025) =
+* [*] Check compatibility with WordPress 6.8
 
 = 3.3.8 (27 Jan, 2025) =
 * [*] Update Freemius SDK to latest version 2.11.0
