@@ -4,7 +4,7 @@
 #fs_pricing_app .fs-app-header .fs-page-title{margin-bottom:0 !important; padding-bottom:0px !important;}
 #fs_pricing_app .fs-app-header .fs-page-title h3{display:block; color:#2271b1 !important; font-size:22px !important; width:100%; background:none !important;  padding: 0px !important;}
 #fs_pricing_app .fs-app-header .fs-page-title{margin-bottom:0px !important;}
-#fs_pricing_app .fs-app-header .fs-plugin-title-and-logo{margin-top:20px !important; margin-bottom:20px !important; background: none !important;  padding: 0px 0px 15px 0px !important;  border: 0px !important; border-bottom: 2px solid #d1d1d1 !important;}
+#fs_pricing_app .fs-app-header .fs-plugin-title-and-logo{margin-bottom:20px !important; background: none !important;  padding: 0px 0px 15px 0px !important;  border: 0px !important; border-bottom: 2px solid #d1d1d1 !important;}
 #fs_pricing_app .fs-app-main .fs-section--plans-and-pricing .fs-period--annual, 
 #fs_pricing_app .fs-app-main li.fs-selected-billing-cycle{ border-color:#1d2327 !important;}
 #fs_pricing_app .fs-app-main li.fs-selected-billing-cycle{background:#1d2327 !important; color:#fff !important; border-color:#1d2327 !important;}
@@ -23,6 +23,7 @@
 #fs_pricing_app .fs-packages li.fs-package:nth-child(2) .fs-package-content{background:#eaf2f9 !important; border:1px solid #2271b1 !important; border-top-left-radius:0px !important; border-top-right-radius:0px !important;} 
 #fs_pricing_app .fs-package:not(.fs-featured-plan) .fs-plan-title{border-top-right-radius: 9px; border-top-left-radius: 9px !important;}
 #fs_pricing_app .fs-button.fs-button--type-primary.fs-button--outline{background:#ff6347 !important; color:#fff !important; border-color:#ff6347 !important;}
-#fs_pricing_app .fs-button.fs-button--type-primary.fs-button--outline:hover{background:#f1f1f1 !important; color:#000 !important; border-color:#ff6347 !important;}
+#fs_pricing_app .fs-button.fs-button--type-primary.fs-button--outline:hover{background: #2271b1 !important; color: #fff !important; border-color: #2271b1 !important;}
 #fs_pricing_app .fs-app-main .fs-section--testimonials .fs-testimonials-nav .fs-nav{width: 30px;  height: 30px; border-radius: 100% !important;}
 #fs_pricing_app .fs-app-main .fs-section--testimonials .fs-testimonials-nav .fs-nav .fs-icon{width:auto !important; height:auto !important; line-height:normal !important;}
+#fs_pricing_app .fs-plan-description strong {background-color: tomato; display: block; padding: 3px; color: #fff; margin: 8px; text-transform: none; border: 1px dashed #fff;}
