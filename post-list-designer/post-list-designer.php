@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Post List Designer by Category
+ * Plugin Name: Post List Designer
  * Plugin URL: https://premium.infornweb.com/post-list-designer-pro/
  * Description: Display WordPress Post on your website in List, simple/minimal list and archive list view. Display category wise post list as well.
  * Version: 3.3.11

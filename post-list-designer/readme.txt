@@ -1,4 +1,4 @@
-﻿=== Post List Designer by Category - List Category Post Or Recent Post ===
+﻿=== Post List Designer - Category Post, Recent Post, Post List ===
 Contributors: infornweb, pluginandplay
 Tags: post list, list post, category post, recent post, post archive
 Requires at least: 4.7
@@ -8,7 +8,7 @@ Stable tag: 3.3.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Display WordPress Post on your website in a List and Archive list view. Display category post, archive post, recent post and post list with category.
+Display WordPress Post on your website in a List or Archive list view. Display category post, archive post, recent post and post list with category.
 
 == Description ==
 
