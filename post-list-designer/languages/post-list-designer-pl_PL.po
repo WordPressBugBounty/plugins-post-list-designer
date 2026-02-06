@@ -35,7 +35,7 @@ msgid "How it Work - Post List Designer"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://premium.infornweb.com/"
+msgid "https://infornweb.com/"
 msgstr ""
 
 #. Author of the plugin

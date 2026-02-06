@@ -136,7 +136,7 @@ class Pld_Admin {
 								<div class="pld-box">
 									<div class="pld-inside-box">
 										<h4>Post List Designs</h4>
-										<p>Manage the post list design. Free version having 2 design. <a href="https://premium.infornweb.com/post-list-designer-pro-slider-demo/" target="_blank">Also check 10+ Premium designs. </a></p>
+										<p>Manage the post list design. Free version having 2 design. <a href="https://infornweb.com/post-list-designer-pro-slider-demo/" target="_blank">Also check 10+ Premium designs. </a></p>
 										<input class='large-text' type='text' value='[pld_post_list design="design-1"]' readonly />
 									</div>
 								</div>
@@ -312,7 +312,7 @@ class Pld_Admin {
 							<div class="pld-feedback">
 								<h3 class="text-center"><?php _e('Want to Check Premium Demo and Features?', 'post-list-designer'); ?></h3>
 								<p><?php _e('Checkout the premium demo with 3 Layouts, 10+ Designs and Widget', 'post-list-designer'); ?></p>
-								<a href="https://premium.infornweb.com/post-list-designer-pro/" class="pld-feedback-btn pld-button-full" target="_blank"><?php _e('Premium Demo', 'post-list-designer'); ?></a>
+								<a href="https://infornweb.com/post-list-designer-pro/" class="pld-feedback-btn pld-button-full" target="_blank"><?php _e('Premium Demo', 'post-list-designer'); ?></a>
 							</div>
 						</div><!-- .inside -->
 					</div><!-- .postbox -->

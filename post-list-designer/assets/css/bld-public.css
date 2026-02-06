@@ -29,37 +29,37 @@
 .pld-minimal-list ol.pld-minimal-list-inr,
 .pld-archive-list ol.pld-minimal-list-inr {list-style-position: outside !important;}
 
-/* List designs*/
+/* List designs */
 .pld-post-list {margin:0 -0.9375em}
 .pld-post-content-inner{padding:5px 0px 10px 0px}
 .pld-readmorebtn{text-decoration: none !important;margin-bottom: 0px;color: #888 !important;border: 2px solid #888;padding: 5px 15px;font-size: 15px;display: inline-block;box-sizing: border-box;line-height: normal !important;margin: 3px 0 10px !important;transition: 0.4s ease-in;}
 .pld-readmorebtn:hover{transition: 0.4s ease-in;background: #888;color:#fff !important;}
 
-/****************** Design-1 ********************/
+/***** Design-1 *****/
 .pld-post-list.pld-design-1 .pld-post-list-content h2 a{color:#444; text-decoration:none;}
 .pld-post-list.pld-design-1 .pld-post-tags a{color:#878787 !important;}
 .pld-post-list.pld-design-1 .pld-post-comments a {color: #878787 !important;text-decoration: underline;}
 
-/****************** Design-2 ********************/
+/***** Design-2 *****/
 .pld-post-list.pld-design-1 .pld-post-list-content h2 a{color:#444; text-decoration:none;}
 .pld-post-list.pld-design-1 .pld-post-tags a{color:#878787 !important;}
 .pld-post-list.pld-design-1 .pld-post-comments a {color: #878787 !important;text-decoration: underline;}
 
 .pld-title-overlay-border{border: 3px solid #d3e5ea;padding: 8px 20px 8px 20px;margin-bottom: 15px;}
 
-/******************Minimial List *********************/
+/***** Minimial List *****/
 .pld-minimal-list.pld-design-1 li.pld-list{padding:0px !important; margin:0 0 5px 0 !important;position:relative; }
 .pld-minimal-list.pld-design-1 li:after,
 .pld-minimal-list.pld-design-1 li:before{content:"" !important; position:absolute;}
 
-/*****************Archive List**********************/
+/***** Archive List *****/
 .pld-archive-list.pld-design-1 .pld-archive-title{background-color: #DDD;padding: 5px 10px;font-size: 18px;border-left: 30px solid #AAAAAA;margin: 0;}
 .pld-archive-list.pld-design-1 .pld-minimal-list-inr{background-color: #EEE;padding-top: 10px !important;padding-bottom: 30px !important;padding-right: 20px !important; padding-left: 40px !important;}
 .pld-archive-list.pld-design-1 li.pld-list{padding:0px !important; margin:0 0 5px 0 !important;position:relative; }
 .pld-archive-list.pld-design-1 li:after,
 .pld-archive-list.pld-design-1 li:before{content:"" !important; position:absolute;}
 
-/***** pagination *****/
+/***** Pagination *****/
 .pld-pagination{clear:both; width:100%; padding:15px 10px; box-sizing: border-box; text-align:center;}
 .pld-pagination .button-blog-list-p{float:right;}
 .pld-pagination .button-blog-list-n{float:left;}
@@ -68,7 +68,7 @@
 .pld-pagination a:hover, .pld-pagination a:focus, .pld-pagination a:hover, .pld-pagination a:focus{color: #333 !important;background: transparent;}
 
 .pld-column,
-.pld-columns {padding-left: 0.9375em;  padding-right: 0.9375em;  width: 100%;  float: left; position: relative;}
+.pld-columns {padding-left: 0.9375em; padding-right: 0.9375em; width: 100%; float: left; position: relative;}
 
 @media only screen and (min-width: 40.0625em) {
 	.pld-medium-1 {width: 8.33333%;}

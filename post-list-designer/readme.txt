@@ -1,12 +1,12 @@
 ﻿=== Post List Designer - Category Post, Recent Post, Post List ===
-Contributors: infornweb, pluginandplay
+Contributors: infornweb, aadhya9
 Tags: post list, list post, category post, recent post, post archive
 Requires at least: 4.7
-Tested up to: 6.8.2
+Tested up to: 6.9
 Requires PHP: 5.4
-Stable tag: 3.3.11
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 3.4.2
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Display WordPress Post on your website in a List or Archive list view. Display category post, archive post, recent post and post list with category.
 
@@ -27,10 +27,10 @@ Post List Designer allows you to list post by category in a post or page using t
 
 The shortcode accepts a category id, the order in which you want the post to display, and the number of posts to display. You can also display the post author, date, excerpt, even the content!
 
-Checkout [Premium Version Demo](https://premium.infornweb.com/post-list-designer-pro/) | [Buy Premium Version](https://premium.infornweb.com/post-list-designer-pro/)  for more designs and options.
+Checkout [Premium Version Demo](https://infornweb.com/post-list-designer-pro/) | [Buy Premium Version](https://infornweb.com/post-list-designer-pro/)  for more designs and options.
 
 > <strong>Premium Version</strong> supports custom post type, custom taxonomy, custom tags, featured post, trending post as well as many cool features.
-> You can get [Post List Designer Premium here](https://premium.infornweb.com/post-list-designer-pro/)!
+> You can get [Post List Designer Premium here](https://infornweb.com/post-list-designer-pro/)!
 
 = This WordPress plugin contains 1 shortcode =
 
@@ -134,16 +134,16 @@ Checkout [Premium Version Demo](https://premium.infornweb.com/post-list-designer
 > * 100% Multi language.
 > * Many more other features also…
 >
-> View [PRO DEMO and Features](https://premium.infornweb.com/post-list-designer-pro/) for additional information.
+> View [PRO DEMO and Features](https://infornweb.com/post-list-designer-pro/) for additional information.
 >
 
 = What's Next =
 
 If you find this plugin useful to display logo in carousel, slider and grid view, please leave a good rating and consider checking out our other plugins:
 
-* <a href="https://premium.infornweb.com/news-blog-designer-pack-pro/" rel="friend" title="News & Blog Designer Pack - WordPress Blog Plugin">News & Blog Designer Pack Pro</a> - A WordPress Blog & News Plugin
-* <a href="https://premium.infornweb.com/post-slider-and-carousel-pro/" rel="friend" title="Post Slider and Carousel with Widget - A Responsive Post Slider">Post Slider and Carousel with Widget</a> - A Responsive Post Slider and Post Carousel Plugin
-* <a href="https://premium.infornweb.com/logo-showcase-with-slick-slider-pro/" rel="friend" title="Logo Showcase with Slick Slider – Logo Carousel, Logo Slider & Logo Grid">Logo Showcase with Slick Slider</a> - Logo Carousel, Logo Slider & Logo Grid Plugin
+* <a href="https://infornweb.com/news-blog-designer-pack-pro/" rel="friend" title="News & Blog Designer Pack - WordPress Blog Plugin">News & Blog Designer Pack Pro</a> - A WordPress Blog & News Plugin
+* <a href="https://infornweb.com/post-slider-and-carousel-pro/" rel="friend" title="Post Slider and Carousel with Widget - A Responsive Post Slider">Post Slider and Carousel with Widget</a> - A Responsive Post Slider and Post Carousel Plugin
+* <a href="https://infornweb.com/logo-showcase-with-slick-slider-pro/" rel="friend" title="Logo Showcase with Slick Slider – Logo Carousel, Logo Slider & Logo Grid">Logo Showcase with Slick Slider</a> - Logo Carousel, Logo Slider & Logo Grid Plugin
 
 == Installation ==
 1. Upload the 'post-list-designer' folder to the '/wp-content/plugins/' directory.
@@ -207,6 +207,17 @@ If you need any help, you can ask it at Post List Designer plugin [Support Forum
 
 == Changelog ==
 
+= 3.4.2 (04 Jan, 2026) =
+* [*] Updated plugin website links.
+
+= 3.4.1 (06 Dec, 2025) =
+* [*] Check compatibility with WordPress 6.9
+* [*] Update Freemius SDK to latest version 2.13.0
+
+= 3.4 (22 Oct, 2025) =
+* [*] Check compatibility with WordPress 6.8.3
+* [*] Check compatibility with PHP version 8.3.26
+
 = 3.3.11 (23 Sept, 2025) =
 * [*] Update Freemius SDK to latest version 2.12.2
 
@@ -259,7 +270,7 @@ If you need any help, you can ask it at Post List Designer plugin [Support Forum
 * [*] Check compatibility with WordPress 6.1.1
 
 = 3.1 (17 Nov, 2022) =
-* [+] Added Divi Theme support to display post short content if post is designed with DIVI page builder.
+* [+] Added Divi Theme support to display post short content if post is designed with Divi page builder.
 * [*] Updated Freemius SDK to latest version 2.5.2
 * [*] Check compatibility with WordPress 6.1
 
