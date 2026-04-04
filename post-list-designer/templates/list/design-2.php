@@ -41,7 +41,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 							</span>
 						<?php }
 
-						echo ( $show_author == 'true' && $show_date == 'true' ) ? '&nbsp;/&nbsp;' : '';
+						echo ( $show_author == 'true' && $show_date == 'true' ) ? '/&nbsp;&nbsp;' : '';
 						
 						if( $show_date == "true" ) { echo get_the_date(); } ?>
 					</div>
